@@ -1,0 +1,23 @@
+{
+  "name": "Email-MJML",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpca999/mjml-email.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpca999/mjml-email/issues"
+  },
+  "homepage": "https://github.com/jpca999/mjml-email#readme",
+  "dependencies": {
+    "mjml": "^4.9.0"
+  }
+}

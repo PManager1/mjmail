@@ -1,0 +1,72 @@
+<mjml>
+    <mj-head>
+        <mj-font name="Montserrat" href="https://fonts.googleapis.com/css?family=Montserrat:400,700" />
+        <mj-preview>Click the button inside to log into your account</mj-preview>
+
+        <mj-attributes>
+          <mj-text font-size="16px" line-height="24px" padding="0px 48px 16px" />
+          <mj-button font-weight="bold" font-size="16px" background-color="#8e2de2" />
+          <mj-divider border-color="#8e2de2" />
+          <mj-all font-family="Montserrat, Helvetica, Arial, sans-serif" />
+        </mj-attributes>
+
+        <mj-style inline="inline">
+          .link {
+            color: #8e2de2;
+            text-decoration: none;
+          }
+        </mj-style>
+    </mj-head>
+    <mj-body>
+        <mj-section padding-bottom="0">
+            <mj-column>
+                <mj-image
+                        padding-top="20px"
+                        padding-bottom="20px"
+                        width="200"
+                        src="equitydentalpartners.com/static/logo/l1.png"
+                />
+
+                <mj-divider />
+
+                <mj-text align="center">
+                    <h1>Your magic link</h1>
+                </mj-text>
+
+                <mj-text>
+                    Somebody requested a log in from your account. If that was you click the button
+                    below to sign into your account.
+                </mj-text>
+
+                <mj-button href="https://howmuchdoesthismeetingco.st/token/abcdefg123456789">
+                    Log in now
+                </mj-button>
+
+                <mj-text>
+                    <br />
+                    Have a wonderful day,<br />
+                    <strong>Richard from HMDTMC</strong>
+                </mj-text>
+
+                <mj-divider />
+
+                <mj-text
+                        padding="8px 48px"
+                        font-size="11px"
+                        line-height="16px"
+                        color="#999999"
+                >
+                    If the button up doesn't work, you can use this link:
+                    <a
+                            href="https://howmuchdoesthismeetingco.st/token/abcdefg123456789"
+                            class="link"
+                    >
+                        https://howmuchdoesthismeetingco.st/token/abcdefg123456789
+                    </a>
+                    <br/>
+                    Your login link expires after 1 hour. You can request another one at any time.
+                </mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>

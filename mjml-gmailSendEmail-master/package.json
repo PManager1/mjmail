@@ -1,0 +1,21 @@
+{
+  "name": "nodemailer",
+  "version": "1.0.0",
+  "description": "https://www.npmjs.com/package/nodemailer",
+  "main": "node-mailer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "email-templates": "^8.0.3",
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "handlebars": "^4.7.7",
+    "nodejs-nodemailer-outlook": "^1.2.3",
+    "nodemailer": "^6.5.0",
+    "nodemailer-smtp-transport": "^2.7.4",
+    "util": "^0.12.3"
+  }
+}
