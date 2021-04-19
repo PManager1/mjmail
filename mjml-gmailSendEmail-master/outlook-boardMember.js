@@ -7,7 +7,7 @@ const transporter = nodemailer.createTransport({
   auth: {
       // user: "jay@equitydentalpartners.com",
       user: "Jay@eqdpi.com",
-      pass: "jalliaccount9$"
+      pass: "********"
   },
   tls: {
       rejectUnauthorized: false
@@ -23,7 +23,7 @@ fs.readFile('../Mjml/boardmember.html', {encoding: 'utf-8'}, function (err, html
         let mailOptions = {
           // from: "jay@equitydentalpartners.com", // sender address
           from: "Jay@eqdpi.com",
-          to: 'Jay@eqdpi.com', 
+          to: 'smithl@whiteandwilliams.com', 
           subject: 'Lori Smith - Non Executive Member Board of Directors',
           html: html
       };
