@@ -23,7 +23,7 @@ fs.readFile('../Mjml/legal-rep.html', {encoding: 'utf-8'}, function (err, html) 
         let mailOptions = {
           // from: "jay@equitydentalpartners.com", // bwalker@mcguirewoods.com
           from: "jay@eqdpi.com",
-          to: 'howard.young@morganlewis.com', //  bnewman@sheppardmullin.com  list of receivers
+          to: 'tandrews@mcguirewoods.com', //  bnewman@sheppardmullin.com  list of receivers
           subject: 'Legal Representation opportunity - Equity Dental Partners',
           html: html
       };

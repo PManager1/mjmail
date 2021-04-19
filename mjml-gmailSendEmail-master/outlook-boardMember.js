@@ -23,8 +23,8 @@ fs.readFile('../Mjml/boardmember.html', {encoding: 'utf-8'}, function (err, html
         let mailOptions = {
           // from: "jay@equitydentalpartners.com", // sender address
           from: "Jay@eqdpi.com",
-          to: 'steve.abrams@hoganlovells.com',  //  bgarish@gmail.com   beth.roberts@hoganlovells.com // SWeiner@mintz.com',
-          subject: 'Steve Abrams  - Non Executive Member Board of Directors',
+          to: 'Jay@eqdpi.com', 
+          subject: 'Lori Smith - Non Executive Member Board of Directors',
           html: html
       };
 
