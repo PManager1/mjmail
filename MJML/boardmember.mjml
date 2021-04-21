@@ -51,7 +51,7 @@
 
         <mj-column width="100%">
           <mj-text mj-class="para">
-            <p>Dear Mr. Thomas McCaffrey,</p>
+            <p>Dear Mr. Greg Roussel,</p>
             <p>I hope you and your family are healthy and well. </p>
             <p> I am a principal in a venture to consolidate the Dental industry.   </p>
 
@@ -83,8 +83,7 @@
         <mj-column>
           <mj-text mj-class="sig">
             <p>Best regards, </p>
-            <p>Jay Parteek </p>
-            <p>Principal </p>
+            <p>Jay Parteek |  Principal | EquityDentalPartners</p>
             <p>Web: Eqdpi.com </p>
             <p>Linkedin: www.linkedin.com/in/jayeqd </p>
             <p>Email- Jay@eqdpi.com </p>
@@ -108,7 +107,7 @@
     <mj-wrapper background-color="#f9f9f9" padding="40px 0 0">
       <mj-section background-color="#f9f9f9">
         <mj-column>
-          <mj-image src="https://www.equitydentalpartners.com/static/logo/header.png" width="600px"></mj-image>
+          <mj-image src="https://www.eqdpi.com/static/logo/header.png" width="600px"></mj-image>
         </mj-column>
       </mj-section>
       
