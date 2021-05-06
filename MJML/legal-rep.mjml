@@ -45,15 +45,14 @@
 
       <mj-section padding="30px 0 20px">
         <mj-column>
-          <mj-image width="100px" src="https://www.equitydentalpartners.com/static/logo/l1-mail.png"></mj-image>
+          <mj-image width="100px" src="https://www.eqdpi.com/static/logo/l1-mail.png"></mj-image>
         </mj-column>
       </mj-section>
       <mj-section>
 
         <mj-column width="100%">
           <mj-text mj-class="para">
-            <p>Dear Mr. Trey Andrews,</p>
-            <p>My apologies for clogging your inbox. We had a system issue.</p>
+            <p>Dear Ms. Lynn Sessions,</p>
             <p>I hope you and your family are healthy and well. </p>
             <p> I am a principal in a venture to consolidate the Dental industry.   </p>
 
@@ -106,7 +105,7 @@
     <mj-wrapper background-color="#f9f9f9" padding="40px 0 0">
       <mj-section background-color="#f9f9f9">
         <mj-column>
-          <mj-image src="https://www.equitydentalpartners.com/static/logo/header.png" width="600px"></mj-image>
+          <mj-image src="https://www.eqdpi.com/static/logo/header.png" width="600px"></mj-image>
         </mj-column>
       </mj-section>
       
