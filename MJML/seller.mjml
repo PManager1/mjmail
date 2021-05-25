@@ -17,10 +17,8 @@
     <mj-font name="Open Sans" href="http://fonts.googleapis.com/css?family=Open+Sans"></mj-font>
     
     <mj-font name="ValeraRound" href="https://www.equitydentalpartners.com/static/fonts/VarelaRound-Regular.ttf"></mj-font>
-    
+  
     <mj-font name="Raleway" href="https://fonts.googleapis.com/css?family=Raleway"></mj-font>
-    
-    
     
     <mj-style inline="inline">.link-nostyle { color: inherit; text-decoration: none }; /* Apple specific Links */ .apple-link-black a { color:#111111 !important; text-decoration:none; } .apple-link-gray a { color:#999999 !important; text-decoration:none; } .apple-link-white a
       { color:#ffffff !important; text-decoration:none; } .apple-link-tan a { color: #aa6034 !important; text-decoration: none; } .apple-link-light-grey a { color: #c7c8ca; text-decoration: none; } .preheader {display:none !important; visibility:hidden;
@@ -55,13 +53,13 @@
              <p>Dear Dr. Michael Radell,</p>
              <p> We are very impressed with the quality of the practice that you and your team have built.  </p>
 
-      <p> We believe that we can help you grow the practice and create additional value for you, employees, and patients through several initiatives.
-</p>
+             <p> We believe that we can help you grow the practice and create additional value for you, employees, and patients through several initiatives.
+                  </p>
 
       <p>  We can create several different opportunities for you, so whether you plan to work for over five years or prepare for an exit within 3-5 years, we can/will create much value for you. 
       </p>
       
-            <p>We are the buyers (not business brokers) with adequate capital and financing, and we’re prepared to close very quickly in the right situation. 
+            <p>We are principals (not business brokers) with adequate capital and financing, and we’re prepared to close very quickly in the right situation. 
   </p>
             
             <p> If you have no intention of retiring, that’s great! You could have the opportunity to become a big part of what promises to be an excited and rewarding future. 
