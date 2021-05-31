@@ -52,23 +52,19 @@
 
         <mj-column width="100%">
           <mj-text mj-class="para">
-            <p>Dear Mr. Geoffrey C. Cockrell,</p>
-            <p>I hope you and your family are healthy and well. </p>
-            <p> I am a principal in a venture to consolidate the Dental industry.   </p>
+            <p>Dear Mr. _____ / Fill in FirmName,</p>
 
-            <p> We are currently interviewing law firms for our legal representation.   </p>
-
-            <p> It appears that your firm might be a potential fit and worth discussing. </p>
+            <p> I am a principal and leading a team in a venture to consolidate the Dental industry. </p>
             
-            <p> If you agree, I’d like to schedule a time for a quick chat.   </p>
+            <p> In the beginning, we are focused on the midwestern region of the United States.     </p>
+
+            <p> I do not know if your current work would pose a conflict, but if not, I would welcome having a discussion.  </p>
+
+            <p> We are interviewing firms to represent us in our acquisitions, and your experience in the Healthcare industry at firmname is why I am reaching out.  </p>
             
-             <p> Kindly send me your availability in the near future.    </p>
-
-            <p>Here is our team:  https://eqdpi.com/acla </p>
-
-            <p>Thank you for taking the time to read my message.   </p>
-          
-            <p>I look forward to hearing back from you.</p>
+            <p> If you have an interest in learning more, I will forward a short summary, so you can make an informed decision. </p>
+            
+             <p> Thank you for taking the time to read my message.    </p>
             
             <p>P.S  Please feel free to forward my message to the appropriate person in your firm.  </p>
             
@@ -81,10 +77,8 @@
           <mj-text mj-class="sig">
             <p>Best regards, </p>
             <p>Jay Parteek </p>
-            <p>Principal </p>
-            <p>Web: Eqdpi.com </p>
+            <p>Principal | EquitydentalPartners </p>
             <p>Linkedin: www.linkedin.com/in/jayeqd </p>
-            <p>Email- Jay@eqdpi.com </p>
             <a href="(714)-606-7884" style="color: #111111;">C-(714)-606-7884</a>
           </mj-text>
         </mj-column>
