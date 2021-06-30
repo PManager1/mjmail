@@ -52,7 +52,7 @@
 
         <mj-column width="100%">
           <mj-text mj-class="para">
-            <p>Dear Mr. _____ / Fill in FirmName,</p>
+            <p>Dear Mr. Frank Carsonie,</p>
 
             <p> I am a principal and leading a team in a venture to consolidate the Dental industry. </p>
             
@@ -60,11 +60,11 @@
 
             <p> I do not know if your current work would pose a conflict, but if not, I would welcome having a discussion.  </p>
 
-            <p> We are interviewing firms to represent us in our acquisitions, and your experience in the Healthcare industry at firmname is the reason I am reaching out.  </p>
+            <p> We are interviewing firms to represent us in our acquisitions, and your experience in the Healthcare industry is the reason I am reaching out.  </p>
             
-            <p> If you have an interest in learning more, I will forward a short summary, so you can make an informed decision. </p>
+            <p> If you have an interest in learning more, I will forward a short Executive Summary, so you can make an informed decision. </p>
             
-             <p> Thank you for taking the time to read my message.    </p>
+            <p> Thank you for taking the time to read my message.    </p>
              
           </mj-text>
         </mj-column>
@@ -121,12 +121,12 @@
           <p style="Margin:0; padding-bottom:10px; font-size:10px; line-height:15px; Margin-bottom:10px; color:#111111; font-family: 'Open Sans', 'Raleway', Arial, Helvetica, sans-serif;">
             <span style="color:#111111 !important; text-decoration:none;">
               <strong>1.714.606.7884</strong>
-              <br /> 1002 N Sacramento St, Orange, CA 92867
+              <!-- <br /> 1002 N Sacramento St, Orange, CA 92867 -->
             </span>
             <br />
-            <a href="https://eqdpi.com/cb" name="footer_privacy" style="color:#111111;">
+            <!-- <a href="https://eqdpi.com/cb" name="footer_privacy" style="color:#111111;">
               <strong>Current Board</strong>
-            </a>&nbsp;&nbsp;|&nbsp;&nbsp;
+            </a>&nbsp;&nbsp;|&nbsp;&nbsp; -->
             <a href="http://www.eqdpi.com" name="footer_privacy" style="color:#111111;">
               <strong>About Us</strong>
             </a>&nbsp;&nbsp;|&nbsp;&nbsp;
